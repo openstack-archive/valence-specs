@@ -1,0 +1,9 @@
+Code-Review+2: Lin Yang <lin.a.yang@intel.com>
+Code-Review+2: Ananth Narayan S <ananth.narayan@gmail.com>
+Workflow+1: Ananth Narayan S <ananth.narayan@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 29 Dec 2016 13:32:10 +0000
+Reviewed-on: https://review.openstack.org/413531
+Project: openstack/valence-specs
+Branch: refs/heads/master
