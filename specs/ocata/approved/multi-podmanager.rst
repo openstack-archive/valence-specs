@@ -131,7 +131,13 @@ have a little improvement. So there would be some impacts on backend private api
 
 Valence GUI / Horizon impact
 ----------------------------
-Pod managers management site may need to be added.
+Pod managers management pages should be added.
+One proposal for Multi-pod manager can look like below snapshots:
+https://wiki.openstack.org/wiki/File:Valence-pod_manager_1.png
+https://wiki.openstack.org/wiki/File:Valence-pod_manager_2.png
+When one pod manager is selected , only racks/chassis belonged to this pod manager
+need to be displayed.
+Ref: https://blueprints.launchpad.net/openstack-valence/+spec/web-ui-functionality
 
 
 Implementation
