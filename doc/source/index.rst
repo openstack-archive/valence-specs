@@ -11,6 +11,7 @@ Ocata specs:
    :maxdepth: 1
 
    specs/ocata/approved/*
+   specs/pike/approved/*
 
 ==================
 Indices and tables
