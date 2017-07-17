@@ -1,0 +1,10 @@
+Code-Review+1: Ananth Narayan S <ananth.narayan@gmail.com>
+Code-Review+2: Nate Potter <nathaniel.potter@intel.com>
+Code-Review+2: Anusha Ramineni <anusha.ramineni@nectechnologies.in>
+Workflow+1: Anusha Ramineni <anusha.ramineni@nectechnologies.in>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 17 Jul 2017 07:14:01 +0000
+Reviewed-on: https://review.openstack.org/474053
+Project: openstack/valence-specs
+Branch: refs/heads/master
