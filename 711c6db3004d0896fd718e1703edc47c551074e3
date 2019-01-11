@@ -1,0 +1,9 @@
+Code-Review+2: Akhil jain <akhil.jain@india.nec.com>
+Code-Review+1: caoxufeng <cao.xufeng@99cloud.net>
+Workflow+1: Akhil jain <akhil.jain@india.nec.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 11 Jan 2019 06:24:24 +0000
+Reviewed-on: https://review.openstack.org/621919
+Project: openstack/valence-specs
+Branch: refs/heads/master
